@@ -19,10 +19,8 @@ for line in data:
         programm.append(line[9::].split(","))  
 
 for n in programm:
-
-
-print("Register:", registers)
-print("Programm:", programm)
+    print("Register:", registers)
+    print("Programm:", programm)
 
 
 # if opcode = 0
