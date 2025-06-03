@@ -1,1 +1,1 @@
-Ergebnis: 13 stars ⭐️ 
+13 stars ⭐️ 
